@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\LoopsPractice\LoopsPractice\bin\Debug\netcoreapp3.1\LoopsPractice.exe
+C:\Users\Lenovo\source\repos\LoopsPractice\LoopsPractice\bin\Debug\netcoreapp3.1\LoopsPractice.deps.json
+C:\Users\Lenovo\source\repos\LoopsPractice\LoopsPractice\bin\Debug\netcoreapp3.1\LoopsPractice.runtimeconfig.json
+C:\Users\Lenovo\source\repos\LoopsPractice\LoopsPractice\bin\Debug\netcoreapp3.1\LoopsPractice.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\LoopsPractice\LoopsPractice\bin\Debug\netcoreapp3.1\LoopsPractice.dll
+C:\Users\Lenovo\source\repos\LoopsPractice\LoopsPractice\bin\Debug\netcoreapp3.1\LoopsPractice.pdb
+C:\Users\Lenovo\source\repos\LoopsPractice\LoopsPractice\obj\Debug\netcoreapp3.1\LoopsPractice.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\LoopsPractice\LoopsPractice\obj\Debug\netcoreapp3.1\LoopsPractice.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\LoopsPractice\LoopsPractice\obj\Debug\netcoreapp3.1\LoopsPractice.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\LoopsPractice\LoopsPractice\obj\Debug\netcoreapp3.1\LoopsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\LoopsPractice\LoopsPractice\obj\Debug\netcoreapp3.1\LoopsPractice.dll
+C:\Users\Lenovo\source\repos\LoopsPractice\LoopsPractice\obj\Debug\netcoreapp3.1\LoopsPractice.pdb
+C:\Users\Lenovo\source\repos\LoopsPractice\LoopsPractice\obj\Debug\netcoreapp3.1\LoopsPractice.genruntimeconfig.cache
